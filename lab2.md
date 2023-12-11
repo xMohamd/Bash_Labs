@@ -1,9 +1,12 @@
 1. **Create a script that asks for user name then sends a greeting to him.**
-   ![](/pics/VirtualBoxVM_RGlYNpezen.png) ![](/pics/VirtualBoxVM_RnqzKEE7pJ.png)
+   ![](/pics/VirtualBoxVM_RGlYNpezen.png) <br/>
+   ![](/pics/VirtualBoxVM_RnqzKEE7pJ.png)
 2. **Create a script called `s1` that calls another script `s2` where:**
    a. In `s1`, there is a variable called `x` with a value of 5.
    b. Try to print the value of `x` in `s2` by two different ways.
-   ![](/pics/VirtualBoxVM_Mw9mbGqjD2.png) ![](/pics/VirtualBoxVM_euY6P675xp.png) ![](/pics/VirtualBoxVM_zS6YKlEzMS.png)
+   ![](/pics/VirtualBoxVM_Mw9mbGqjD2.png)<br/>
+   ![](/pics/VirtualBoxVM_euY6P675xp.png)<br/>
+   ![](/pics/VirtualBoxVM_zS6YKlEzMS.png)
 3. **Create a script called `mycp` where:**
    a. It copies a file to another.
    b. It copies multiple files to a directory.
